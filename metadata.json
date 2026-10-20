@@ -1,0 +1,6 @@
+{
+  "name": "Arad AI Academy",
+  "description": "Premier Artificial Intelligence Academy in Qazvin, Iran. Specialized AI engineering, machine learning, deep learning, and advanced AI training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
